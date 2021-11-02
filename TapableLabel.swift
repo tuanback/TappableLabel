@@ -1,8 +1,5 @@
 //
 //  TapableLabel.swift
-//  ziktok_mvp
-//
-//  Created by Tuan Do thanh on 2021/06/19.
 //
 
 import UIKit
